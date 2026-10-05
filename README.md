@@ -65,9 +65,9 @@ A grouped index of my coursework, book examples and practice repositories. Origi
 
 These repositories are learning examples from *Bootstrapping Microservices*; attribution remains in their original READMEs.
 
-### Empty placeholders & practice
+### Placeholders & practice
 
-- [4.2P](https://github.com/owenzheang/4.2P) — Empty assignment placeholder; implementation is in `4.2import`.
-- [owen-test-for-NCJ](https://github.com/owenzheang/owen-test-for-NCJ) — Empty practice sandbox; see the featured NoCodeJam team repository above.
+- [4.2P](https://github.com/owenzheang/4.2P) — Assignment placeholder with a README only; implementation is in `4.2import`.
+- [owen-test-for-NCJ](https://github.com/owenzheang/owen-test-for-NCJ) — Practice sandbox with a README only; see the featured NoCodeJam team repository above.
 
 </details>
