@@ -1,4 +1,4 @@
-# Hi, I'm Haowen (Owen) Zheng
+# Hi, I'm Owen Zheang
 
 I focus on frontend development: React applications, responsive interfaces and API integration.
 
